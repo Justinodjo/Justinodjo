@@ -27,7 +27,7 @@
 - **Tech** : Vue.js, Spring Boot, Bootstap  
 - **Rôle** : Développeur full-stack  
 - **Description** : Projet de gestion immobilière, projet perso
-- **Fonctionnalités** : Auth, CRUD projets, responsive  
+- **Fonctionnalités** : Auth, Annonces, Visite, Gestion des transactions, Notifications des Acteurs (Gestionnaires, propriétaires, Locataires, Administrateurs), responsive, etc ...  
 - **Lien code** : [GitHub](https://github.com/Justinodjo/hweon/)  
 - **Démo** : [Live](https://dev.mainsdorplus.com)
 
@@ -50,6 +50,12 @@
 
 <img width="1024" height="1024" alt="ux_design" src="https://github.com/user-attachments/assets/f4432545-060b-4fb1-9abf-7432d380f08d" />
 
+
+### Application Web Vue.js
+- **Tech** : Vue.js, Spring Boot, Bootstap, FedaPay
+- **Rôle** : Développeur full-stack  
+- **Description** : Application web de reservation chez l'institut Mains d'Or Plus (Salon de beauté, SPA, Massages, Coaching et formations)
+- **Lien code** : [GitHub](https://github.com/Justinodjo/mainsdorplus)
 
 
 
