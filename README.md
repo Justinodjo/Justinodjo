@@ -15,7 +15,8 @@
 
 📫 **Contact :**
 - Email : justinodjo07@gmail.com
-- LinkedIn : [Mon Profil](https://www.linkedin.com/in/justin-odjo-71b860179/)
-- Portfolio : [Mon site](https://www.odjo.tech)
+- LinkedIn : [](https://www.linkedin.com/in/justin-odjo-71b860179/)
+- Portfolio : [](https://www.odjo.tech)
 
-✨ J’aime créer des projets utiles et apprendre de nouvelles technologies !
+✨ J’aime créer des projets utiles et apprendre de nouvelles technologi<img width="1024" height="1024" alt="ux_design" src="https://github.com/user-attachments/assets/f4432545-060b-4fb1-9abf-7432d380f08d" />
+es !
