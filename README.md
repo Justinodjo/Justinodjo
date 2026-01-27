@@ -17,6 +17,10 @@
 - Email : justinodjo07@gmail.com
 - LinkedIn : [JUSTINODJO](https://www.linkedin.com/in/justin-odjo-71b860179/)
 - Portfolio : [ODJO](https://www.odjo.tech)
+- Numéro : + 229 01 61 36 68 96
 
-✨ J’aime créer des projets utiles et apprendre de nouvelles technologi<img width="1024" height="1024" alt="ux_design" src="https://github.com/user-attachments/assets/f4432545-060b-4fb1-9abf-7432d380f08d" />
-es !
+✨ J’aime créer des projets utiles et apprendre de nouvelles technologies !
+
+
+<img width="1024" height="1024" alt="ux_design" src="https://github.com/user-attachments/assets/f4432545-060b-4fb1-9abf-7432d380f08d" />
+
