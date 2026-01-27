@@ -57,5 +57,13 @@
 - **Description** : Application web de reservation chez l'institut Mains d'Or Plus (Salon de beauté, SPA, Massages, Coaching et formations)
 - **Lien code** : [GitHub](https://github.com/Justinodjo/mainsdorplus)
 
+<img width="1680" height="929" alt="Capture d’écran 2026-01-27 à 07 38 12" src="https://github.com/user-attachments/assets/c7ea843d-95b6-4ba0-a2d5-3b28f50baf51" />
+
+<img width="1680" height="887" alt="Capture d’écran 2026-01-27 à 07 37 51" src="https://github.com/user-attachments/assets/6fc4b586-d328-4be5-aa09-3493d40a57f1" />
+
+<img width="1680" height="929" alt="Capture d’écran 2026-01-27 à 07 38 50" src="https://github.com/user-attachments/assets/4aa36e0b-6e10-4f55-88e2-629d56b84a74" />
+
+
+
 
 
