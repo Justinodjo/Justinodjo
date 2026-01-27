@@ -9,7 +9,7 @@
 
 🚀 **Compétences :**
 - Front-end : Vue.js, React Native, Flutter
-- Back-end : Spring Boot, APIs REST
+- Back-end : Spring Boot,Laravel, APIs REST
 - Base de données : MySQL, PostgreSQL
 - Outils : Git, GitHub, CI/CD
 
