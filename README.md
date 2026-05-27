@@ -2,18 +2,27 @@
   <img src="/github_banner_odjo.svg" alt="ODJO Banner" />
 </p>
 
-🌱 Développeur Full Stack & Mobile spécialisé dans la création d’applications web, mobiles et desktop avec Spring Boot, Vue.js, Flutter, React Native et Visual Basic.
+### Full Stack & Mobile Developer | Spring Boot • Vue.js • Flutter • UI/UX
+Full Stack Developer, Spring Boot Developer, Flutter Developer, Vue.js Developer, UI/UX Designer, Backend Engineer
 
-## 💻 Ce que je développe
-- Applications web modernes et APIs performantes
-- Applications mobiles multiplateformes
-- Outils et scripts d’automatisation
+## 🚀 Development Focus
+- Scalable web applications (Spring Boot + Vue.js)
+- Cross-platform mobile apps (Flutter / React Native)
+- REST APIs & backend systems
+- UI/UX design systems (Figma)
 
-🚀 **Compétences :**
-- Front-end : Vue.js, React Native, Flutter
-- Back-end : Spring Boot, Laravel, APIs REST
-- Base de données : MySQL, PostgreSQL
-- Outils : Git, GitHub, CI/CD
+## 🧠 Tech Stack
+**Frontend**
+- Vue.js, React Native, Flutter
+
+**Backend**
+- Spring Boot, Laravel, REST APIs
+
+**Database**
+- MySQL, PostgreSQL
+
+**Tools**
+- Git, GitHub, CI/CD, Docker, Figma
 
 ## 🚀 Stack Technique
 
@@ -21,6 +30,12 @@
   <img src="https://skillicons.dev/icons?i=vue,spring,flutter,react,laravel,postgres,mysql,git,docker" />
 </p>
 
+## ⚡ What I’m currently working on
+
+- SaaS applications with Spring Boot
+- Mobile apps with Flutter
+- Cloud deployment & CI/CD pipelines
+- UI/UX systems for scalable products
 
 📫 **Contact :**
 - Email : justinodjo07@gmail.com
@@ -83,3 +98,11 @@
 ## 📊 GitHub Stats
 
 ![Justin GitHub stats](https://github-readme-stats.vercel.app/api?username=Justinodjo&show_icons=true&theme=tokyonight)
+
+
+
+---
+
+📌 Always open to collaboration on SaaS, mobile apps, and UI/UX projects.
+
+📫 Contact me for freelance or collaboration opportunities.
