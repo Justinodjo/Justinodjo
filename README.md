@@ -2,9 +2,6 @@
   <img src="/github_banner_odjo.svg" alt="ODJO Banner" />
 </p>
 
-# ODJO Mahugnon Justin 👋
-### Full Stack & Mobile Developer
-
 🌱 Développeur Full Stack & Mobile spécialisé dans la création d’applications web, mobiles et desktop avec Spring Boot, Vue.js, Flutter, React Native et Visual Basic.
 
 ## 💻 Ce que je développe
