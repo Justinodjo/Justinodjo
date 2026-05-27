@@ -4,12 +4,14 @@
 
 ### Full Stack & Mobile Developer | Spring Boot • Vue.js • Flutter • UI/UX
 
-Full Stack Developer · Spring Boot Developer · Flutter Developer · Vue.js Developer · UI/UX Designer · Backend Engineer
+Full Stack Developer specialized in Spring Boot, Vue.js, Flutter, and UI/UX design. I build scalable web applications, mobile apps, and REST APIs.
+
+Spring Boot Developer · Vue.js Developer · Flutter Developer · Full Stack Developer · Backend Engineer · UI/UX Designer · SaaS Developer
 
 ---
 
 ## 🚀 Development Focus
-
+I build scalable SaaS platforms, REST APIs, and cross-platform mobile applications using modern technologies.
 - Scalable web applications (Spring Boot + Vue.js)
 - Cross-platform mobile apps (Flutter / React Native)
 - REST APIs & backend systems
@@ -92,7 +94,7 @@ Full Stack Developer · Spring Boot Developer · Flutter Developer · Vue.js Dev
 
 - **Tech:** Vue.js, Spring Boot, Bootstrap, FedaPay
 - **Role:** Full-Stack Developer
-- **Description:** A web booking application for the Mains d'Or Plus institute.
+- **Description:** A full-stack SaaS booking platform built with Spring Boot and Vue.js featuring authentication, payments, and admin dashboard.
 - **Code:** [GitHub](https://github.com/Justinodjo/mainsdorplus)
 
 <img width="1680" height="929" alt="Mains d'Or Plus screenshot 1" src="https://github.com/user-attachments/assets/c7ea843d-95b6-4ba0-a2d5-3b28f50baf51" />
@@ -118,3 +120,4 @@ Full Stack Developer · Spring Boot Developer · Flutter Developer · Vue.js Dev
 
 📌 Always open to collaboration on SaaS, mobile apps, and UI/UX projects.  
 📫 Feel free to reach out for freelance or collaboration opportunities.
+Full Stack Developer | Spring Boot | Vue.js | Flutter | React Native | UI/UX Designer | Backend Engineer | SaaS Development
