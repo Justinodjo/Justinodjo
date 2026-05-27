@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/github_banner_odjo.svg" alt="ODJO Banner" />
+</p>
+
 # ODJO Mahugnon Justin 👋
 ### Full Stack & Mobile Developer
 
