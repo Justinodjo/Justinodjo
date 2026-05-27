@@ -13,7 +13,7 @@ Full Stack Developer, Spring Boot Developer, Flutter Developer, Vue.js Developer
 
 ## 🧠 Tech Stack
 **Frontend**
-- Vue.js, React Native, Flutter
+- Vue.js, ReactJS, React Native, Flutter
 
 **Backend**
 - Spring Boot, Laravel, REST APIs
