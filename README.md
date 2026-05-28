@@ -56,7 +56,7 @@ I build scalable SaaS platforms, REST APIs, and cross-platform mobile applicatio
 
 - **Email:** justinodjo07@gmail.com
 - **LinkedIn:** [JUSTINODJO](https://www.linkedin.com/in/justin-odjo-71b860179/)
-- **Portfolio:** [odjo.tech](https://www.odjo.tech)
+- **Portfolio:** [portfolio-justin](https://portfolio-five-chi-38.vercel.app/)
 
 ✨ Passionate about building useful, high-performance, and user-centered solutions.
 
